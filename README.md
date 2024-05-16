@@ -1,2 +1,1 @@
-# pornub
-pornub
+A live demo of the project is available
