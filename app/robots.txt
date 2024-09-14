@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://pornub.lol/sitemap.xml
+sitemap: https://pornub.lol/sitemap.xml
